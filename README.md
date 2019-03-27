@@ -35,7 +35,7 @@ P2: CREATING A CALCULATORFX PROJECT IN THE NETBEAN IDE.
 
 To run the CalculatorFX program  in an IDE, I have provided the CalculatorFX source code which needs to be compiled from within a NetBean JavaFX Application project.
 
-1. Download the CalculatorFX source code to your machine inside the following windows folder structure created in the NetBean document folder:
+1. Download the CalculatorFX source code along with image files to your machine inside the following windows folder structure created in the NetBean document folder:
 CalculatorFX/src/calculatorfx.
 
 Go to the NetBean document folder on your machine.
