@@ -42,7 +42,7 @@ Go to the NetBean document folder on your machine.
 FIRST:  create a folder called CalculatorFX in the NetBean document folder.
 SECOND, create a folder called src inside the CalculatorFX folder.
 THIRD: create a folder called calculatorfx inside the src folder.
-The calculatorfx is the package folder declared in the source code.  Place the CalculatorFX source code in the calculatorfx package folder.
+The calculatorfx is the package folder declared in the source code.  Place the CalculatorFX source code along with image files in the calculatorfx package folder.
 
 2. Launch the NetBean IDE on your machine.
 3. From the file menu then  choose new project.
